@@ -1,1 +1,2 @@
-
+- Versão 1.0 | Status: Apagada, dia 18/05/2024
+- Versão 2.0 | Status: Atual, adicionada dia 18/05/2024
